@@ -16,7 +16,7 @@
             "range_max": 2.0
           },
           "fuseLit": true,
-          "power": 4,
+          "power": 10,
           "causesFire": false
         }
       }
